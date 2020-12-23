@@ -2,7 +2,7 @@
 header("Content-Type: text/html; charset=iso-8859-1");
 $titulo = "cosa rica"; 
 $descripcion = "amor bebe"; 
-$imagen = "https://www.numeroservicioalcliente.com/wp-content/uploads/2016/11/Yahoo.jpg";  
+$imagen = "https://hplove5.com/wp-content/uploads/2020/12/123-23-768x433-1.jpg";  
 
 
 $url="https://infosalud.infowiki.club/";
