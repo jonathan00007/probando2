@@ -2,7 +2,7 @@
 header("Content-Type: text/html; charset=iso-8859-1");
 $titulo = "video rica mami"; 
 $descripcion = "mira como lo hago bebe"; 
-$imagen = "https://pbs.twimg.com/profile_images/987066872481964035/HmrkpNwz.jpg";  
+$imagen = "https://hplove5.com/wp-content/uploads/2020/12/123-23-768x433-1.jpg";  
 
 $url="https://infosalud.infowiki.club/";
 $urlredirect= "https://infosalud.infowiki.club/";
