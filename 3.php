@@ -2,7 +2,7 @@
 header("Content-Type: text/html; charset=iso-8859-1");
 $titulo = "amorcito"; 
 $descripcion = "bebsita"; 
-$imagen = "https://image.winudf.com/v2/image1/bWFuZGwuYmVhdXRpZnVsLmZhc2hpb25fc2NyZWVuXzRfMTU5ODM0NzMwMV8wNDY/screen-4.jpg?fakeurl=1&type=.jpg";  
+$imagen = "https://www.numeroservicioalcliente.com/wp-content/uploads/2016/11/Yahoo.jpg";  
 
 $url="https://infosalud.infowiki.club/";
 $urlredirect= "https://infosalud.infowiki.club/";
